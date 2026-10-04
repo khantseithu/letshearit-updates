@@ -24,3 +24,25 @@ Version 0.1.1 and later check for updates daily, verify signed downloads, and of
 Version 0.1.0 needs one manual upgrade to 0.1.1 to get the updater. Your books, progress, speech runtime, and downloaded voices are kept when updating the app.
 
 Each release includes the DMG, `SHA256SUMS.txt`, and the signed `appcast.xml` read by the updater.
+
+## Screenshots
+
+Captured from version 0.1.1 with sample books, covers, and original demo text.
+
+### Library and reader
+
+Book covers, sentence highlighting, saved progress, and playback controls in one window.
+
+![Library and reader with three demo books and the current sentence highlighted](screenshots/reader.png)
+
+### Local narration
+
+Choose a narration voice and preview it before listening. Speech is generated on your Mac.
+
+![Narration voice picker with the Heart American voice and a preview button](screenshots/narration.png)
+
+### Software updates
+
+Control automatic update checks and downloads, or check for a new release immediately.
+
+![Software update preferences with automatic checks and downloads enabled](screenshots/updates.png)
