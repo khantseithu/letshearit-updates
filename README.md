@@ -33,16 +33,16 @@ Captured from version 0.1.1 with sample books, covers, and original demo text.
 
 Book covers, sentence highlighting, saved progress, and playback controls in one window.
 
-![Library and reader with three demo books and the current sentence highlighted](screenshots/reader.png)
+![Library and reader with three demo books and the current sentence highlighted](screenshots/reader.jpg)
 
 ### Local narration
 
 Choose a narration voice and preview it before listening. Speech is generated on your Mac.
 
-![Narration voice picker with the Heart American voice and a preview button](screenshots/narration.png)
+![Narration voice picker with the Heart American voice and a preview button](screenshots/narration.jpg)
 
 ### Software updates
 
 Control automatic update checks and downloads, or check for a new release immediately.
 
-![Software update preferences with automatic checks and downloads enabled](screenshots/updates.png)
+![Software update preferences with automatic checks and downloads enabled](screenshots/updates.jpg)
