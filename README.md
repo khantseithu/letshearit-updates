@@ -1,5 +1,9 @@
 # Let’s Hear It
 
+
+https://github.com/user-attachments/assets/253b7797-7f4c-4556-8d21-0220847100e3
+
+
 A native macOS app for reading and listening to English EPUBs and text-based PDFs. Narration runs locally on your Mac.
 
 This repository hosts downloadable releases and the signed update feed. The application’s source repository is private.
